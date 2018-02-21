@@ -1,0 +1,428 @@
+21/02/2018 16:43:29 devpinoyLogger Read Suite File
+21/02/2018 16:43:29 devpinoyLogger Module Name :- ctc
+21/02/2018 16:43:29 devpinoyLogger Read mudulexls File
+21/02/2018 16:43:30 devpinoyLogger Test Case will execute for Module :- coffee_live_ash_mid
+21/02/2018 16:43:30 devpinoyLogger Keywords defined as :-openBrowser
+21/02/2018 16:43:30 devpinoyLogger Inside Execute Data is :- config|browserType
+21/02/2018 16:43:30 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:43:30 devpinoyLogger open browser
+21/02/2018 16:43:33 devpinoyLogger Chrome browser selected
+21/02/2018 16:43:33 devpinoyLogger ----Pass
+21/02/2018 16:43:34 devpinoyLogger Keywords defined as :-OpenWebSite
+21/02/2018 16:43:34 devpinoyLogger Inside Execute Data is :- config|URL
+21/02/2018 16:43:34 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:43:34 devpinoyLogger  Data is http://ec2-34-211-212-179.us-west-2.compute.amazonaws.com/
+21/02/2018 16:43:34 devpinoyLogger  object is 
+21/02/2018 16:44:44 devpinoyLogger ----Pass
+21/02/2018 16:44:44 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:44:44 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:44:44 devpinoyLogger modulexls OBJECT is sign_lnk
+21/02/2018 16:44:53 devpinoyLogger ----Pass
+21/02/2018 16:44:54 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:44:54 devpinoyLogger Inside Execute Data is :- config|username
+21/02/2018 16:44:54 devpinoyLogger modulexls OBJECT is email
+21/02/2018 16:44:54 devpinoyLogger Writing in text box rohit0904singh@gmail.com
+21/02/2018 16:44:54 devpinoyLogger Writing Object in text box email
+21/02/2018 16:44:56 devpinoyLogger ----Pass
+21/02/2018 16:44:56 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:44:56 devpinoyLogger Inside Execute Data is :- config|password
+21/02/2018 16:44:56 devpinoyLogger modulexls OBJECT is password
+21/02/2018 16:44:56 devpinoyLogger Writing in text box 123456
+21/02/2018 16:44:56 devpinoyLogger Writing Object in text box password
+21/02/2018 16:44:58 devpinoyLogger ----Pass
+21/02/2018 16:44:58 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:44:58 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:44:58 devpinoyLogger modulexls OBJECT is login
+21/02/2018 16:45:07 devpinoyLogger ----Pass
+21/02/2018 16:45:07 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:07 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:07 devpinoyLogger modulexls OBJECT is build
+21/02/2018 16:45:23 devpinoyLogger ----Pass
+21/02/2018 16:45:24 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:24 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:24 devpinoyLogger modulexls OBJECT is coffee
+21/02/2018 16:45:30 devpinoyLogger ----Pass
+21/02/2018 16:45:30 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:30 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:30 devpinoyLogger modulexls OBJECT is live
+21/02/2018 16:45:36 devpinoyLogger ----Pass
+21/02/2018 16:45:36 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:36 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:36 devpinoyLogger modulexls OBJECT is ash
+21/02/2018 16:45:42 devpinoyLogger ----Pass
+21/02/2018 16:45:42 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:42 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:42 devpinoyLogger modulexls OBJECT is brown
+21/02/2018 16:45:48 devpinoyLogger ----Pass
+21/02/2018 16:45:48 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:48 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:48 devpinoyLogger modulexls OBJECT is ushape
+21/02/2018 16:45:55 devpinoyLogger ----Pass
+21/02/2018 16:45:55 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:45:55 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:45:55 devpinoyLogger modulexls OBJECT is white
+21/02/2018 16:46:01 devpinoyLogger ----Pass
+21/02/2018 16:46:01 devpinoyLogger Keywords defined as :-mid_slider
+21/02/2018 16:46:01 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:46:01 devpinoyLogger modulexls OBJECT is length
+21/02/2018 16:46:04 devpinoyLogger Object inside mid_slider  length
+21/02/2018 16:46:07 devpinoyLogger ----Pass
+21/02/2018 16:46:07 devpinoyLogger Keywords defined as :-mid_slider
+21/02/2018 16:46:07 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:46:07 devpinoyLogger modulexls OBJECT is width
+21/02/2018 16:46:10 devpinoyLogger Object inside mid_slider  width
+21/02/2018 16:46:13 devpinoyLogger ----Pass
+21/02/2018 16:46:13 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:46:13 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:46:13 devpinoyLogger modulexls OBJECT is add_to_cart
+21/02/2018 16:46:19 devpinoyLogger ----Pass
+21/02/2018 16:46:19 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:46:19 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:46:19 devpinoyLogger modulexls OBJECT is checkout
+21/02/2018 16:46:33 devpinoyLogger ----Pass
+21/02/2018 16:46:33 devpinoyLogger Keywords defined as :-screenshot
+21/02/2018 16:46:33 devpinoyLogger Inside Execute Data is :- config|coffee_live_ash_mid
+21/02/2018 16:46:33 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:46:44 devpinoyLogger ----Pass
+21/02/2018 16:46:44 devpinoyLogger Keywords defined as :-quit
+21/02/2018 16:46:44 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:46:44 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:46:54 devpinoyLogger ----Pass
+21/02/2018 16:46:54 devpinoyLogger Test Case will execute for Module :- coffee_live_ash_max
+21/02/2018 16:46:54 devpinoyLogger Keywords defined as :-openBrowser
+21/02/2018 16:46:54 devpinoyLogger Inside Execute Data is :- config|browserType
+21/02/2018 16:46:54 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:46:54 devpinoyLogger open browser
+21/02/2018 16:46:57 devpinoyLogger Chrome browser selected
+21/02/2018 16:46:57 devpinoyLogger ----Pass
+21/02/2018 16:46:57 devpinoyLogger Keywords defined as :-OpenWebSite
+21/02/2018 16:46:57 devpinoyLogger Inside Execute Data is :- config|URL
+21/02/2018 16:46:57 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:46:57 devpinoyLogger  Data is http://ec2-34-211-212-179.us-west-2.compute.amazonaws.com/
+21/02/2018 16:46:57 devpinoyLogger  object is 
+21/02/2018 16:48:08 devpinoyLogger ----Pass
+21/02/2018 16:48:08 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:08 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:08 devpinoyLogger modulexls OBJECT is sign_lnk
+21/02/2018 16:48:17 devpinoyLogger ----Pass
+21/02/2018 16:48:17 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:48:17 devpinoyLogger Inside Execute Data is :- config|username
+21/02/2018 16:48:17 devpinoyLogger modulexls OBJECT is email
+21/02/2018 16:48:17 devpinoyLogger Writing in text box rohit0904singh@gmail.com
+21/02/2018 16:48:17 devpinoyLogger Writing Object in text box email
+21/02/2018 16:48:19 devpinoyLogger ----Pass
+21/02/2018 16:48:19 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:48:19 devpinoyLogger Inside Execute Data is :- config|password
+21/02/2018 16:48:19 devpinoyLogger modulexls OBJECT is password
+21/02/2018 16:48:19 devpinoyLogger Writing in text box 123456
+21/02/2018 16:48:19 devpinoyLogger Writing Object in text box password
+21/02/2018 16:48:21 devpinoyLogger ----Pass
+21/02/2018 16:48:21 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:21 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:21 devpinoyLogger modulexls OBJECT is login
+21/02/2018 16:48:30 devpinoyLogger ----Pass
+21/02/2018 16:48:30 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:30 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:30 devpinoyLogger modulexls OBJECT is build
+21/02/2018 16:48:47 devpinoyLogger ----Pass
+21/02/2018 16:48:47 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:47 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:47 devpinoyLogger modulexls OBJECT is coffee
+21/02/2018 16:48:53 devpinoyLogger ----Pass
+21/02/2018 16:48:53 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:53 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:53 devpinoyLogger modulexls OBJECT is live
+21/02/2018 16:48:59 devpinoyLogger ----Pass
+21/02/2018 16:48:59 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:48:59 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:48:59 devpinoyLogger modulexls OBJECT is ash
+21/02/2018 16:49:06 devpinoyLogger ----Pass
+21/02/2018 16:49:06 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:49:06 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:06 devpinoyLogger modulexls OBJECT is gray
+21/02/2018 16:49:12 devpinoyLogger ----Pass
+21/02/2018 16:49:12 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:49:12 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:12 devpinoyLogger modulexls OBJECT is orson
+21/02/2018 16:49:18 devpinoyLogger ----Pass
+21/02/2018 16:49:18 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:49:18 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:18 devpinoyLogger modulexls OBJECT is black
+21/02/2018 16:49:24 devpinoyLogger ----Pass
+21/02/2018 16:49:24 devpinoyLogger Keywords defined as :-full_slider
+21/02/2018 16:49:24 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:24 devpinoyLogger modulexls OBJECT is length
+21/02/2018 16:49:27 devpinoyLogger Object inside full_slider  length
+21/02/2018 16:49:30 devpinoyLogger ----Pass
+21/02/2018 16:49:30 devpinoyLogger Keywords defined as :-full_slider
+21/02/2018 16:49:30 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:30 devpinoyLogger modulexls OBJECT is width
+21/02/2018 16:49:33 devpinoyLogger Object inside full_slider  width
+21/02/2018 16:49:37 devpinoyLogger ----Pass
+21/02/2018 16:49:37 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:49:37 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:37 devpinoyLogger modulexls OBJECT is add_to_cart
+21/02/2018 16:49:43 devpinoyLogger ----Pass
+21/02/2018 16:49:43 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:49:43 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:49:43 devpinoyLogger modulexls OBJECT is checkout
+21/02/2018 16:49:55 devpinoyLogger ----Pass
+21/02/2018 16:49:55 devpinoyLogger Keywords defined as :-screenshot
+21/02/2018 16:49:55 devpinoyLogger Inside Execute Data is :- config|coffee_live_ash_max
+21/02/2018 16:49:55 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:50:05 devpinoyLogger ----Pass
+21/02/2018 16:50:05 devpinoyLogger Keywords defined as :-quit
+21/02/2018 16:50:05 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:50:05 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:50:15 devpinoyLogger ----Pass
+21/02/2018 16:50:16 devpinoyLogger Test Case will execute for Module :- coffee_flip_ash_min
+21/02/2018 16:50:16 devpinoyLogger Keywords defined as :-openBrowser
+21/02/2018 16:50:16 devpinoyLogger Inside Execute Data is :- config|browserType
+21/02/2018 16:50:16 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:50:16 devpinoyLogger open browser
+21/02/2018 16:50:19 devpinoyLogger Chrome browser selected
+21/02/2018 16:50:19 devpinoyLogger ----Pass
+21/02/2018 16:50:19 devpinoyLogger Keywords defined as :-OpenWebSite
+21/02/2018 16:50:19 devpinoyLogger Inside Execute Data is :- config|URL
+21/02/2018 16:50:19 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:50:19 devpinoyLogger  Data is http://ec2-34-211-212-179.us-west-2.compute.amazonaws.com/
+21/02/2018 16:50:19 devpinoyLogger  object is 
+21/02/2018 16:51:29 devpinoyLogger ----Pass
+21/02/2018 16:51:29 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:51:29 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:51:29 devpinoyLogger modulexls OBJECT is sign_lnk
+21/02/2018 16:51:38 devpinoyLogger ----Pass
+21/02/2018 16:51:38 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:51:38 devpinoyLogger Inside Execute Data is :- config|username
+21/02/2018 16:51:38 devpinoyLogger modulexls OBJECT is email
+21/02/2018 16:51:38 devpinoyLogger Writing in text box rohit0904singh@gmail.com
+21/02/2018 16:51:38 devpinoyLogger Writing Object in text box email
+21/02/2018 16:51:41 devpinoyLogger ----Pass
+21/02/2018 16:51:41 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:51:41 devpinoyLogger Inside Execute Data is :- config|password
+21/02/2018 16:51:41 devpinoyLogger modulexls OBJECT is password
+21/02/2018 16:51:41 devpinoyLogger Writing in text box 123456
+21/02/2018 16:51:41 devpinoyLogger Writing Object in text box password
+21/02/2018 16:51:43 devpinoyLogger ----Pass
+21/02/2018 16:51:43 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:51:43 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:51:43 devpinoyLogger modulexls OBJECT is login
+21/02/2018 16:51:52 devpinoyLogger ----Pass
+21/02/2018 16:51:52 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:51:52 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:51:52 devpinoyLogger modulexls OBJECT is build
+21/02/2018 16:52:14 devpinoyLogger ----Pass
+21/02/2018 16:52:14 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:14 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:14 devpinoyLogger modulexls OBJECT is coffee
+21/02/2018 16:52:20 devpinoyLogger ----Pass
+21/02/2018 16:52:20 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:20 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:20 devpinoyLogger modulexls OBJECT is flip
+21/02/2018 16:52:26 devpinoyLogger ----Pass
+21/02/2018 16:52:26 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:26 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:26 devpinoyLogger modulexls OBJECT is ash
+21/02/2018 16:52:32 devpinoyLogger ----Pass
+21/02/2018 16:52:33 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:33 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:33 devpinoyLogger modulexls OBJECT is rose_print
+21/02/2018 16:52:39 devpinoyLogger ----Pass
+21/02/2018 16:52:39 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:39 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:39 devpinoyLogger modulexls OBJECT is hairpin
+21/02/2018 16:52:45 devpinoyLogger ----Pass
+21/02/2018 16:52:45 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:45 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:45 devpinoyLogger modulexls OBJECT is raw_metal
+21/02/2018 16:52:51 devpinoyLogger ----Pass
+21/02/2018 16:52:51 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:51 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:51 devpinoyLogger modulexls OBJECT is add_to_cart
+21/02/2018 16:52:57 devpinoyLogger ----Pass
+21/02/2018 16:52:57 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:52:57 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:52:57 devpinoyLogger modulexls OBJECT is checkout
+21/02/2018 16:53:08 devpinoyLogger ----Pass
+21/02/2018 16:53:08 devpinoyLogger Keywords defined as :-screenshot
+21/02/2018 16:53:08 devpinoyLogger Inside Execute Data is :- config|coffee_flip_ash_min
+21/02/2018 16:53:08 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:53:18 devpinoyLogger ----Pass
+21/02/2018 16:53:18 devpinoyLogger Keywords defined as :-quit
+21/02/2018 16:53:18 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:53:18 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:53:29 devpinoyLogger ----Pass
+21/02/2018 16:53:29 devpinoyLogger Test Case will execute for Module :- coffee_flip_ash_mid
+21/02/2018 16:53:29 devpinoyLogger Keywords defined as :-openBrowser
+21/02/2018 16:53:29 devpinoyLogger Inside Execute Data is :- config|browserType
+21/02/2018 16:53:29 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:53:29 devpinoyLogger open browser
+21/02/2018 16:53:31 devpinoyLogger Chrome browser selected
+21/02/2018 16:53:31 devpinoyLogger ----Pass
+21/02/2018 16:53:31 devpinoyLogger Keywords defined as :-OpenWebSite
+21/02/2018 16:53:31 devpinoyLogger Inside Execute Data is :- config|URL
+21/02/2018 16:53:31 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:53:31 devpinoyLogger  Data is http://ec2-34-211-212-179.us-west-2.compute.amazonaws.com/
+21/02/2018 16:53:31 devpinoyLogger  object is 
+21/02/2018 16:54:40 devpinoyLogger ----Pass
+21/02/2018 16:54:40 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:54:40 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:54:40 devpinoyLogger modulexls OBJECT is sign_lnk
+21/02/2018 16:54:49 devpinoyLogger ----Pass
+21/02/2018 16:54:49 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:54:49 devpinoyLogger Inside Execute Data is :- config|username
+21/02/2018 16:54:49 devpinoyLogger modulexls OBJECT is email
+21/02/2018 16:54:49 devpinoyLogger Writing in text box rohit0904singh@gmail.com
+21/02/2018 16:54:49 devpinoyLogger Writing Object in text box email
+21/02/2018 16:54:51 devpinoyLogger ----Pass
+21/02/2018 16:54:51 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:54:51 devpinoyLogger Inside Execute Data is :- config|password
+21/02/2018 16:54:51 devpinoyLogger modulexls OBJECT is password
+21/02/2018 16:54:51 devpinoyLogger Writing in text box 123456
+21/02/2018 16:54:51 devpinoyLogger Writing Object in text box password
+21/02/2018 16:54:53 devpinoyLogger ----Pass
+21/02/2018 16:54:54 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:54:54 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:54:54 devpinoyLogger modulexls OBJECT is login
+21/02/2018 16:55:02 devpinoyLogger ----Pass
+21/02/2018 16:55:02 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:02 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:02 devpinoyLogger modulexls OBJECT is build
+21/02/2018 16:55:22 devpinoyLogger ----Pass
+21/02/2018 16:55:22 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:22 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:22 devpinoyLogger modulexls OBJECT is coffee
+21/02/2018 16:55:28 devpinoyLogger ----Pass
+21/02/2018 16:55:28 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:28 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:28 devpinoyLogger modulexls OBJECT is flip
+21/02/2018 16:55:34 devpinoyLogger ----Pass
+21/02/2018 16:55:34 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:34 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:34 devpinoyLogger modulexls OBJECT is ash
+21/02/2018 16:55:40 devpinoyLogger ----Pass
+21/02/2018 16:55:40 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:40 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:40 devpinoyLogger modulexls OBJECT is tropical_print
+21/02/2018 16:55:46 devpinoyLogger ----Pass
+21/02/2018 16:55:47 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:47 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:47 devpinoyLogger modulexls OBJECT is ushape
+21/02/2018 16:55:53 devpinoyLogger ----Pass
+21/02/2018 16:55:53 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:55:53 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:53 devpinoyLogger modulexls OBJECT is white
+21/02/2018 16:55:59 devpinoyLogger ----Pass
+21/02/2018 16:55:59 devpinoyLogger Keywords defined as :-mid_slider
+21/02/2018 16:55:59 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:55:59 devpinoyLogger modulexls OBJECT is length
+21/02/2018 16:56:02 devpinoyLogger Object inside mid_slider  length
+21/02/2018 16:56:05 devpinoyLogger ----Pass
+21/02/2018 16:56:05 devpinoyLogger Keywords defined as :-mid_slider
+21/02/2018 16:56:05 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:56:05 devpinoyLogger modulexls OBJECT is width
+21/02/2018 16:56:08 devpinoyLogger Object inside mid_slider  width
+21/02/2018 16:56:11 devpinoyLogger ----Pass
+21/02/2018 16:56:12 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:56:12 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:56:12 devpinoyLogger modulexls OBJECT is add_to_cart
+21/02/2018 16:56:18 devpinoyLogger ----Pass
+21/02/2018 16:56:18 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:56:18 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:56:18 devpinoyLogger modulexls OBJECT is checkout
+21/02/2018 16:56:30 devpinoyLogger ----Pass
+21/02/2018 16:56:30 devpinoyLogger Keywords defined as :-screenshot
+21/02/2018 16:56:30 devpinoyLogger Inside Execute Data is :- config|coffee_flip_ash_mid
+21/02/2018 16:56:30 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:56:41 devpinoyLogger ----Pass
+21/02/2018 16:56:41 devpinoyLogger Keywords defined as :-quit
+21/02/2018 16:56:41 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:56:41 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:56:51 devpinoyLogger ----Pass
+21/02/2018 16:56:51 devpinoyLogger Test Case will execute for Module :- coffee_flip_ash_max
+21/02/2018 16:56:51 devpinoyLogger Keywords defined as :-openBrowser
+21/02/2018 16:56:51 devpinoyLogger Inside Execute Data is :- config|browserType
+21/02/2018 16:56:51 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:56:51 devpinoyLogger open browser
+21/02/2018 16:56:53 devpinoyLogger Chrome browser selected
+21/02/2018 16:56:53 devpinoyLogger ----Pass
+21/02/2018 16:56:53 devpinoyLogger Keywords defined as :-OpenWebSite
+21/02/2018 16:56:53 devpinoyLogger Inside Execute Data is :- config|URL
+21/02/2018 16:56:53 devpinoyLogger modulexls OBJECT is 
+21/02/2018 16:56:53 devpinoyLogger  Data is http://ec2-34-211-212-179.us-west-2.compute.amazonaws.com/
+21/02/2018 16:56:53 devpinoyLogger  object is 
+21/02/2018 16:58:04 devpinoyLogger ----Pass
+21/02/2018 16:58:04 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:04 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:04 devpinoyLogger modulexls OBJECT is sign_lnk
+21/02/2018 16:58:13 devpinoyLogger ----Pass
+21/02/2018 16:58:13 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:58:13 devpinoyLogger Inside Execute Data is :- config|username
+21/02/2018 16:58:13 devpinoyLogger modulexls OBJECT is email
+21/02/2018 16:58:13 devpinoyLogger Writing in text box rohit0904singh@gmail.com
+21/02/2018 16:58:13 devpinoyLogger Writing Object in text box email
+21/02/2018 16:58:15 devpinoyLogger ----Pass
+21/02/2018 16:58:15 devpinoyLogger Keywords defined as :-writeInInput
+21/02/2018 16:58:15 devpinoyLogger Inside Execute Data is :- config|password
+21/02/2018 16:58:15 devpinoyLogger modulexls OBJECT is password
+21/02/2018 16:58:15 devpinoyLogger Writing in text box 123456
+21/02/2018 16:58:15 devpinoyLogger Writing Object in text box password
+21/02/2018 16:58:17 devpinoyLogger ----Pass
+21/02/2018 16:58:18 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:18 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:18 devpinoyLogger modulexls OBJECT is login
+21/02/2018 16:58:27 devpinoyLogger ----Pass
+21/02/2018 16:58:27 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:27 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:27 devpinoyLogger modulexls OBJECT is build
+21/02/2018 16:58:44 devpinoyLogger ----Pass
+21/02/2018 16:58:44 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:44 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:44 devpinoyLogger modulexls OBJECT is coffee
+21/02/2018 16:58:50 devpinoyLogger ----Pass
+21/02/2018 16:58:50 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:50 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:50 devpinoyLogger modulexls OBJECT is flip
+21/02/2018 16:58:57 devpinoyLogger ----Pass
+21/02/2018 16:58:57 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:58:57 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:58:57 devpinoyLogger modulexls OBJECT is ash
+21/02/2018 16:59:03 devpinoyLogger ----Pass
+21/02/2018 16:59:03 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:59:03 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:03 devpinoyLogger modulexls OBJECT is gray
+21/02/2018 16:59:09 devpinoyLogger ----Pass
+21/02/2018 16:59:09 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:59:09 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:09 devpinoyLogger modulexls OBJECT is orson
+21/02/2018 16:59:15 devpinoyLogger ----Pass
+21/02/2018 16:59:15 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:59:15 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:15 devpinoyLogger modulexls OBJECT is black
+21/02/2018 16:59:21 devpinoyLogger ----Pass
+21/02/2018 16:59:21 devpinoyLogger Keywords defined as :-full_slider
+21/02/2018 16:59:21 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:21 devpinoyLogger modulexls OBJECT is length
+21/02/2018 16:59:24 devpinoyLogger Object inside full_slider  length
+21/02/2018 16:59:27 devpinoyLogger ----Pass
+21/02/2018 16:59:27 devpinoyLogger Keywords defined as :-full_slider
+21/02/2018 16:59:27 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:27 devpinoyLogger modulexls OBJECT is width
+21/02/2018 16:59:30 devpinoyLogger Object inside full_slider  width
+21/02/2018 16:59:34 devpinoyLogger ----Pass
+21/02/2018 16:59:34 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:59:34 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:34 devpinoyLogger modulexls OBJECT is add_to_cart
+21/02/2018 16:59:40 devpinoyLogger ----Pass
+21/02/2018 16:59:40 devpinoyLogger Keywords defined as :-clickLink
+21/02/2018 16:59:40 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 16:59:40 devpinoyLogger modulexls OBJECT is checkout
+21/02/2018 16:59:51 devpinoyLogger ----Pass
+21/02/2018 16:59:51 devpinoyLogger Keywords defined as :-screenshot
+21/02/2018 16:59:51 devpinoyLogger Inside Execute Data is :- config|coffee_flip_ash_max
+21/02/2018 16:59:51 devpinoyLogger modulexls OBJECT is 
+21/02/2018 17:00:02 devpinoyLogger ----Pass
+21/02/2018 17:00:02 devpinoyLogger Keywords defined as :-quit
+21/02/2018 17:00:02 devpinoyLogger Inside Execute Data is :- 
+21/02/2018 17:00:02 devpinoyLogger modulexls OBJECT is 
+21/02/2018 17:00:12 devpinoyLogger ----Pass
